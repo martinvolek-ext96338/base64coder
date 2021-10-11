@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Base64Coder/1.0.0": {
+        "runtime": {
+          "Base64Coder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Base64Coder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
