@@ -20,6 +20,7 @@
 
         <TextBox Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
                  TextWrapping="Wrap"
+                 AcceptsReturn="True"
                  Text="{Binding Input, Mode=TwoWay}"></TextBox>
 
         <Button Grid.Row="1" Grid.Column="0" Click="EncodeOnClick">Encode</Button>
